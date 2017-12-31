@@ -7,7 +7,8 @@
   "author": "Keegan Lillo <apps@lillo.me>",
   "license": "MIT",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "deploy": "./scripts/deploy.sh"
   },
   "dependencies": {
     "react": "^16.2.0",
